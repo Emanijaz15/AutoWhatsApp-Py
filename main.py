@@ -1,5 +1,5 @@
 import pywhatkit
-
+ 
 
 pywhatkit.sendwhatmsg(
     phone_no="+92**********",    #paste number here
